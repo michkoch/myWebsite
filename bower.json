@@ -1,0 +1,18 @@
+{
+  "name": "myWebsite",
+  "homepage": "https://github.com/michkoch/myWebsite",
+  "description": "michellenkoch.com",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  }
+}
